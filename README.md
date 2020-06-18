@@ -1,3 +1,5 @@
+YouTubeの[GraphQL Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9iK6Qhn-QLcXCXPQUov1U7f) をHooksで書いた完成形です。
+
 <img width="640" alt="スクリーンショット 2020-06-16 22 28 23" src="https://user-images.githubusercontent.com/50798936/84831836-0d54c200-b067-11ea-8746-52e61efafee0.png">
 
 <img width="1418" alt="スクリーンショット 2020-06-17 6 27 31" src="https://user-images.githubusercontent.com/50798936/84831840-104fb280-b067-11ea-822c-7d59c6e9c3eb.png">
