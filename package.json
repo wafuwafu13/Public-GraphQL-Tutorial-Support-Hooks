@@ -1,0 +1,24 @@
+{
+  "name": "GraphQL-Tutorial",
+  "version": "1.0.0",
+  "description": "<img width=\"640\" alt=\"スクリーンショット 2020-06-16 22 28 23\" src=\"https://user-images.githubusercontent.com/50798936/84831836-0d54c200-b067-11ea-8746-52e61efafee0.png\">",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "format": "prettier --write '**/*.{js,json,md,html,css}'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wafuwafu13/GraphQL-Tutorial.git"
+  },
+  "keywords": [],
+  "author": "Tagawa Hirotaka <wafuwafumariobaske@gmail.com> (https://tagawa.netlify.app/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wafuwafu13/GraphQL-Tutorial/issues"
+  },
+  "homepage": "https://github.com/wafuwafu13/GraphQL-Tutorial#readme",
+  "devDependencies": {
+    "prettier": "^2.0.5"
+  }
+}
